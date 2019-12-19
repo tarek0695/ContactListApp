@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Contact List App</string>
+
+    <!-- fragment name-->
+
+    <string name="edit_contact_fragment">EditContactFragment</string>
+    <string name="contact_fragment">ContactFragment</string>
+    <string name="view_contact_fragment">ViewContactFragment</string>
+
+    //keys
+    <string name="contact">Contact</string>
+
+    <string-array name="device_options">
+        <item>Mobile</item>
+        <item>Mobile</item>
+        <item>Work</item>
+        <item>Tell</item>
+        <item>Other</item>
+    </string-array>
+</resources>
